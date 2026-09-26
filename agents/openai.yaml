@@ -1,0 +1,4 @@
+interface:
+  display_name: "第二世界摄影海报"
+  short_description: "保留原照片，生成主体衍生的立体摄影物体，并严格合成上下各半海报"
+  default_prompt: "使用 $second-world-photo-poster，将我上传的原照片制作成 3:4 第二世界摄影海报，锁定核心主体并验证原照保真与上下各半。"
